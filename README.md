@@ -18,6 +18,5 @@ An automated Python script designed for Virtual Assistants and Executive Assista
 
 1. *Clone the repository:*
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/smart-email-organizer.git](https://github.com/M-R-Tech000
-/smart-email-organizer.git)
-   cd smart-email-organizer
+git clone https://github.com/M-R-Tech000/smart-email-organizer.git
+cd smart-email-organizer
